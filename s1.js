@@ -540,8 +540,6 @@ function cb59() {scb59(); $('cb59,wh59,wm59').hide();$('ch59').fadeIn();$('cm59'
 function cb60() {scb60(); $('cb60,wh60,wm60').hide();$('ch60').fadeIn();$('cm60').slideDown('fast').fadeOut(1500);}
 
 
-</script>
-<script>
 <!-- Correct Button and Wrong Button Local Storage -->
 var l = localStorage;
   
